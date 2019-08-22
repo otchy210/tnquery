@@ -1,6 +1,6 @@
 {
   "name": "@otchy/tnquery",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "jQuery like tiny and thin DOMElement wrapper",
   "main": "lib/index.js",
   "scripts": {
